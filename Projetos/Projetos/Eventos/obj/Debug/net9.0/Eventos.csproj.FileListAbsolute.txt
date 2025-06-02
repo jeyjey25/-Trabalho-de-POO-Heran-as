@@ -1,0 +1,14 @@
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\Eventos.AssemblyInfo.cs
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\Eventos\bin\Debug\net9.0\Eventos.exe
+C:\Users\VITOR\Eventos\bin\Debug\net9.0\Eventos.deps.json
+C:\Users\VITOR\Eventos\bin\Debug\net9.0\Eventos.runtimeconfig.json
+C:\Users\VITOR\Eventos\bin\Debug\net9.0\Eventos.dll
+C:\Users\VITOR\Eventos\bin\Debug\net9.0\Eventos.pdb
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\Eventos.dll
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\refint\Eventos.dll
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\Eventos.pdb
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\Eventos.genruntimeconfig.cache
+C:\Users\VITOR\Eventos\obj\Debug\net9.0\ref\Eventos.dll

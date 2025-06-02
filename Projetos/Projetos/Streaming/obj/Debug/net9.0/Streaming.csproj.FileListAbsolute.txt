@@ -1,0 +1,14 @@
+C:\Users\VITOR\Streaming\bin\Debug\net9.0\Streaming.exe
+C:\Users\VITOR\Streaming\bin\Debug\net9.0\Streaming.deps.json
+C:\Users\VITOR\Streaming\bin\Debug\net9.0\Streaming.runtimeconfig.json
+C:\Users\VITOR\Streaming\bin\Debug\net9.0\Streaming.dll
+C:\Users\VITOR\Streaming\bin\Debug\net9.0\Streaming.pdb
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\Streaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\Streaming.AssemblyInfoInputs.cache
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\Streaming.AssemblyInfo.cs
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\Streaming.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\Streaming.dll
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\refint\Streaming.dll
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\Streaming.pdb
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\Streaming.genruntimeconfig.cache
+C:\Users\VITOR\Streaming\obj\Debug\net9.0\ref\Streaming.dll

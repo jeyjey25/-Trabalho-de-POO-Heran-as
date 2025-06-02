@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ControleVeiculosManutencoes/1.0.0": {
+        "runtime": {
+          "ControleVeiculosManutencoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControleVeiculosManutencoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

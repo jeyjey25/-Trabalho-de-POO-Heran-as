@@ -1,0 +1,14 @@
+C:\Users\VITOR\Vendas\bin\Debug\net9.0\Vendas.exe
+C:\Users\VITOR\Vendas\bin\Debug\net9.0\Vendas.deps.json
+C:\Users\VITOR\Vendas\bin\Debug\net9.0\Vendas.runtimeconfig.json
+C:\Users\VITOR\Vendas\bin\Debug\net9.0\Vendas.dll
+C:\Users\VITOR\Vendas\bin\Debug\net9.0\Vendas.pdb
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\Vendas.AssemblyInfoInputs.cache
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\Vendas.AssemblyInfo.cs
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\Vendas.dll
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\refint\Vendas.dll
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\Vendas.pdb
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\Vendas.genruntimeconfig.cache
+C:\Users\VITOR\Vendas\obj\Debug\net9.0\ref\Vendas.dll

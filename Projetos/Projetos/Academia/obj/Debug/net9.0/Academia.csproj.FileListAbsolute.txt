@@ -1,0 +1,14 @@
+C:\Users\VITOR\Academia\bin\Debug\net9.0\Academia.exe
+C:\Users\VITOR\Academia\bin\Debug\net9.0\Academia.deps.json
+C:\Users\VITOR\Academia\bin\Debug\net9.0\Academia.runtimeconfig.json
+C:\Users\VITOR\Academia\bin\Debug\net9.0\Academia.dll
+C:\Users\VITOR\Academia\bin\Debug\net9.0\Academia.pdb
+C:\Users\VITOR\Academia\obj\Debug\net9.0\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Academia\obj\Debug\net9.0\Academia.AssemblyInfoInputs.cache
+C:\Users\VITOR\Academia\obj\Debug\net9.0\Academia.AssemblyInfo.cs
+C:\Users\VITOR\Academia\obj\Debug\net9.0\Academia.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\Academia\obj\Debug\net9.0\Academia.dll
+C:\Users\VITOR\Academia\obj\Debug\net9.0\refint\Academia.dll
+C:\Users\VITOR\Academia\obj\Debug\net9.0\Academia.pdb
+C:\Users\VITOR\Academia\obj\Debug\net9.0\Academia.genruntimeconfig.cache
+C:\Users\VITOR\Academia\obj\Debug\net9.0\ref\Academia.dll

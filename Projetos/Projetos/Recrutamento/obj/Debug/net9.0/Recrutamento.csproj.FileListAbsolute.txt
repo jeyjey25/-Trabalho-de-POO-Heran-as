@@ -1,0 +1,14 @@
+C:\Users\VITOR\Recrutamento\bin\Debug\net9.0\Recrutamento.exe
+C:\Users\VITOR\Recrutamento\bin\Debug\net9.0\Recrutamento.deps.json
+C:\Users\VITOR\Recrutamento\bin\Debug\net9.0\Recrutamento.runtimeconfig.json
+C:\Users\VITOR\Recrutamento\bin\Debug\net9.0\Recrutamento.dll
+C:\Users\VITOR\Recrutamento\bin\Debug\net9.0\Recrutamento.pdb
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\Recrutamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\Recrutamento.AssemblyInfoInputs.cache
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\Recrutamento.AssemblyInfo.cs
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\Recrutamento.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\Recrutamento.dll
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\refint\Recrutamento.dll
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\Recrutamento.pdb
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\Recrutamento.genruntimeconfig.cache
+C:\Users\VITOR\Recrutamento\obj\Debug\net9.0\ref\Recrutamento.dll

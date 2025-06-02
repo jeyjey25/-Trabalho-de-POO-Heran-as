@@ -1,0 +1,14 @@
+C:\Users\VITOR\CursosOnline\bin\Debug\net9.0\CursosOnline.exe
+C:\Users\VITOR\CursosOnline\bin\Debug\net9.0\CursosOnline.deps.json
+C:\Users\VITOR\CursosOnline\bin\Debug\net9.0\CursosOnline.runtimeconfig.json
+C:\Users\VITOR\CursosOnline\bin\Debug\net9.0\CursosOnline.dll
+C:\Users\VITOR\CursosOnline\bin\Debug\net9.0\CursosOnline.pdb
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\CursosOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\CursosOnline.AssemblyInfoInputs.cache
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\CursosOnline.AssemblyInfo.cs
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\CursosOnline.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\CursosOnline.dll
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\refint\CursosOnline.dll
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\CursosOnline.pdb
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\CursosOnline.genruntimeconfig.cache
+C:\Users\VITOR\CursosOnline\obj\Debug\net9.0\ref\CursosOnline.dll

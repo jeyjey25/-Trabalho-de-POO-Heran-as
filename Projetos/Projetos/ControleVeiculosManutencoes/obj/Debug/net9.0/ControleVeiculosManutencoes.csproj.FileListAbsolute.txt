@@ -1,0 +1,14 @@
+C:\Users\VITOR\ControleVeiculosManutencoes\bin\Debug\net9.0\ControleVeiculosManutencoes.exe
+C:\Users\VITOR\ControleVeiculosManutencoes\bin\Debug\net9.0\ControleVeiculosManutencoes.deps.json
+C:\Users\VITOR\ControleVeiculosManutencoes\bin\Debug\net9.0\ControleVeiculosManutencoes.runtimeconfig.json
+C:\Users\VITOR\ControleVeiculosManutencoes\bin\Debug\net9.0\ControleVeiculosManutencoes.dll
+C:\Users\VITOR\ControleVeiculosManutencoes\bin\Debug\net9.0\ControleVeiculosManutencoes.pdb
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ControleVeiculosManutencoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ControleVeiculosManutencoes.AssemblyInfoInputs.cache
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ControleVeiculosManutencoes.AssemblyInfo.cs
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ControleVeiculosManutencoes.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ControleVeiculosManutencoes.dll
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\refint\ControleVeiculosManutencoes.dll
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ControleVeiculosManutencoes.pdb
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ControleVeiculosManutencoes.genruntimeconfig.cache
+C:\Users\VITOR\ControleVeiculosManutencoes\obj\Debug\net9.0\ref\ControleVeiculosManutencoes.dll

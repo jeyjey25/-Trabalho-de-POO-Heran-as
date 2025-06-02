@@ -1,0 +1,14 @@
+C:\Users\VITOR\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.exe
+C:\Users\VITOR\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.deps.json
+C:\Users\VITOR\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.runtimeconfig.json
+C:\Users\VITOR\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.dll
+C:\Users\VITOR\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.pdb
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.AssemblyInfoInputs.cache
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.AssemblyInfo.cs
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.csproj.CoreCompileInputs.cache
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.dll
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\refint\CadastroEscolar.dll
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.pdb
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.genruntimeconfig.cache
+C:\Users\VITOR\CadastroEscolar\obj\Debug\net9.0\ref\CadastroEscolar.dll
