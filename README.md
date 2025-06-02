@@ -1,6 +1,9 @@
 # -Trabalho-de-POO-Heran-as
 
-integrantes jean K. - joao H. - Vitor
+integrantes 
+.jean K. -RA: (a2652552)  
+.joao H. -RA: (a2652587)
+.Vitor   -RA: (a2652684)
 
 Projetos em C# (.NET)
 
